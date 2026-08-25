@@ -5,15 +5,21 @@ repo: status # The name of this repository
 sites:
   - name: FAN Studio
     url: https://api.fanstudio.tech/
+  - name: FAN Studio [Backup]
+    url: https://api.fanstudio.hk/
   - name: WHEWS
+    url: https://api.2v8.cn
+  - name: WHEWS [Backup]
     url: https://api.beecld.com/
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Wolfx
+    url: https://wolfx.jp/
+  - name: P2PQuake
+    url: https://www.p2pquake.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /your-repo-name
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
