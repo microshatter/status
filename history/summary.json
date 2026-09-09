@@ -40,20 +40,20 @@
     "url": "https://api.2v8.cn",
     "icon": "https://icons.duckduckgo.com/ip3/api.2v8.cn.ico",
     "slug": "whews",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 3221,
-    "timeDay": 2371,
-    "timeWeek": 3641,
-    "timeMonth": 3221,
-    "timeYear": 3221,
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "81.96%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
+    "time": 3122,
+    "timeDay": 1853,
+    "timeWeek": 3353,
+    "timeMonth": 3122,
+    "timeYear": 3122,
     "dailyMinutesDown": {
       "2026-08-25": 40,
-      "2026-09-09": 0
+      "2026-09-09": 260
     }
   },
   {
