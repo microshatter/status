@@ -42,9 +42,9 @@
     "url": "https://api.2v8.cn",
     "icon": "https://icons.duckduckgo.com/ip3/api.2v8.cn.ico",
     "slug": "whews",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
@@ -55,7 +55,8 @@
     "timeYear": 3721,
     "dailyMinutesDown": {
       "2026-08-25": 40,
-      "2026-09-09": 260
+      "2026-09-09": 260,
+      "2026-10-12": 0
     }
   },
   {
