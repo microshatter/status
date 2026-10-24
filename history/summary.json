@@ -4,27 +4,29 @@
     "url": "https://api.fanstudio.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fanstudio.tech.ico",
     "slug": "fan-studio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2159,
     "timeDay": 6271,
     "timeWeek": 4507,
     "timeMonth": 2920,
     "timeYear": 2159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-24": 5
+    }
   },
   {
     "name": "FAN Studio [Backup]",
     "url": "https://api.fanstudio.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fanstudio.hk.ico",
     "slug": "fan-studio-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
@@ -34,7 +36,8 @@
     "timeMonth": 2483,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2026-09-21": 210
+      "2026-09-21": 210,
+      "2026-10-24": 0
     }
   },
   {
@@ -43,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.2v8.cn.ico",
     "slug": "whews",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 3830,
     "timeDay": 4448,
     "timeWeek": 4491,
