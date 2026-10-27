@@ -24,9 +24,9 @@
     "url": "https://api.fanstudio.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fanstudio.hk.ico",
     "slug": "fan-studio-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.62%",
@@ -37,7 +37,8 @@
     "timeYear": 2078,
     "dailyMinutesDown": {
       "2026-09-21": 210,
-      "2026-10-24": 135
+      "2026-10-24": 135,
+      "2026-10-27": 0
     }
   },
   {
