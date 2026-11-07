@@ -1,7 +1,7 @@
 url: http://fssn-api.fanstudio.tech/
-status: down
-code: 502
-responseTime: 960
-lastUpdated: 2026-11-07T13:58:40.914Z
+status: up
+code: 200
+responseTime: 789
+lastUpdated: 2026-11-07T18:27:13.621Z
 startTime: 2026-11-03T06:18:21.775Z
 generator: Upptime <https://github.com/upptime/upptime>
